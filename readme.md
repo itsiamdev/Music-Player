@@ -26,4 +26,4 @@ A simple web-based music player application built with HTML, CSS, and JavaScript
 
 ## Live Demo
 
-[View Projects](https://iam269.github.io/Projects-View/)
+[View Projects](https://itsiamdev.github.io/Projects-View/)
